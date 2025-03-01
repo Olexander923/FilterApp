@@ -1,0 +1,50 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+# IDEA specific files
+.idea/
+FilterApp.iml/
+out/
+
+#Compiled class files
+*.class
+
+#Log files
+*.log
+
+#Temporary files
+*.tmp
+*.bak
+
+*Data files
+src/floats.txt
+strings.txt
+integers.txt
+in1.txt
+in2.txt
