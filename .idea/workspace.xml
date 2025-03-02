@@ -4,28 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f15e5696-f814-45f4-a453-e55733a7c7b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FilterApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArgumentParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilteredData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StatisticsCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StatisticsPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WriteFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/floats.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/integers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lunch/instruction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings.txt" afterDir="false" />
+    <list default="true" id="f15e5696-f814-45f4-a453-e55733a7c7b3" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.floats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.integers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.strings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArgumentParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FilteredData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Statistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StatisticsCollector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StatisticsPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WriteFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/floats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,8 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "Merging master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Сашок/FilterApp/src/Main.java",
     "project.structure.last.edited": "Project",
@@ -80,7 +78,31 @@
       <option name="presentableId" value="Default" />
       <updated>1740748937115</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1740834567173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740834567173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
