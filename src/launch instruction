@@ -13,8 +13,8 @@
 
 4.Запустить программу с функцией -a(добавление): java Main -a input1.txt input2.txt
 
-5.Запустить програссу с функцией -s(краткая статистика): java Main -s input1.txt input2.txt
+5.Запустить программу с функцией -s(краткая статистика): java Main -s input1.txt input2.txt
 
-6.Запустить програссу с функцией -f(полна статистика статистика): java Main -f input1.txt input2.txt
+6.Запустить программу с функцией -f(полна статистика статистика): java Main -f input1.txt input2.txt
 
 7. Запустить программу c функцией -p(c префиксом имен файлов): java Main -p result_ input1.txt input2.txt
